@@ -7,5 +7,5 @@ Foi utilizado:
 HTML
 CSS
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/43452688/118715952-a1d91e80-b7fa-11eb-98e5-46d9704d9dd7.png)
 
